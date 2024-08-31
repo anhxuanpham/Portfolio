@@ -5,7 +5,7 @@ export default function Header() {
     <div>
       <h1><RandomTextReveal onHover={true} text="Hi, I am William" /></h1>
 
-      <p>A tech enthusiast with a non-traditional educational background, deeply intrigued by cybersecurity. Driven by boundless curiosity, I love to explore, hack, and uncover the inner workings of everything. Currently, I bring my passion and skills to the banking industry where they shape my everyday work.</p>
+      <p>I love to explore, hack and uncover the inner workings of everything. Currently, I bring my passion and skills to the banking industry where they shape my everyday work.</p>
     </div>
 
     <img src="/william.png" className="shrink-0 w-16 h-16 sm:w-24 sm:h-24 rounded-full shadow" />
